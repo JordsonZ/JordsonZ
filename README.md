@@ -1,7 +1,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0168c2&height=120&section=header"/>
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=0168c2&size=35&center=true&vCenter=true&width=1000&lines=Olá,+meu+nome+é+Jordson+Galvão;Sou+estudante+de+Infomática+Web;Bem+Vindo!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=0168c2&size=35&center=true&vCenter=true&width=1000&lines=Olá,+meu+nome+é+Jordson+Galvão;Sou+estudante+de+Infomática+para+Internet;Bem+Vindo!+:%29)](https://git.io/typing-svg)
 
 <br>
 <br>
@@ -18,7 +18,7 @@
 
 <br>
 
-### Abilidades:
+### Habilidades:
 <div>
       <img align="center" height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
       <img align="center" height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
@@ -35,7 +35,6 @@
 
 ### Estudando no momento:
 <div>
-       <img align="center" height="40" width="60" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
       <img align="center" height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
 </div>
 
